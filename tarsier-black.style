@@ -1,0 +1,121 @@
+#page {
+float: left;
+text-align: left;
+}
+.postimage {
+float:none;
+margin: 0 auto;
+max-height: 288px;
+min-height: 160px;
+min-width: 200px;
+max-width: 230px;
+}
+.twittered {
+margin: 0px 0px 7px 0px;
+height: 50px;
+width:  50px;
+float:left!important;
+}
+a.fbtext {
+color: #d6d6d6;
+font: normal 11px Helvetica, Arial,sans-serif;
+text-align: left!important;
+text-decoration: none;
+width: 100%;
+}
+.fblinkerdiv {
+float: left;
+width: 130px;
+margin-top: 7px;
+}
+.fblinks {
+color: #fff;
+font: bold 10px Helvetica, Arial,sans-serif;
+text-align: left;
+text-decoration: none;
+float: right;
+margin-left: 10px;
+line-height: 10px;
+text-transform: lowercase;
+font-variant: small-caps;
+}
+.fdbate {
+clear: both;
+color: #fff;
+font: normal 8px Helvetica, Arial,sans-serif;
+text-align: left;
+text-decoration: none;
+width: 100px;
+margin-top: 7px;
+float:left;
+}
+.newfbcolumn {
+background: #000;
+float: left;
+width: 100%;
+height: 100%;
+margin: 7px 0;
+}
+.newpost {
+background-color: #292929;
+float: left;
+margin: 0;
+overflow: auto;
+padding: 7px;
+width: 230px;
+border: 1px dotted #666;
+margin: 8px 4px 4px 8px;
+float: left;
+}
+.newtwitter {
+float: left;
+background: #292929;
+width: 230px;
+padding: 7px;
+border: 1px dashed #666;
+margin: 8px 4px 4px 8px;
+float: left;
+}
+.newtwitter p {
+max-width: 170px;
+}
+.fbmarg{
+margin:0 0 10px 0;
+float: left;
+font-size: 9px;
+text-align: left;
+}
+.weibomarg, .facebookmarg, .instagrammarg, .vimeomarg, .pinterestmarg, .youtubemarg, .rssmarg {
+margin: 0 0 7px 0!important;
+float: left;
+font-size: 9px;
+text-align: left;
+width: 230px;
+min-height: 39px;
+}
+p.twittermarg {
+margin: 0!important;
+float: right;
+font-size: 9px;
+text-align: left;
+width: 180px;
+}
+img.twitter, img.weibo, img.photo {
+width: 32px;
+height: 32px;
+float: right!important;
+margin: 0 0 7px 7px!important;
+}
+
+.videothumb {
+background-size:100% 100%;
+width:230px;
+height:129px;
+text-align:center;
+display:table-cell; 
+vertical-align: middle;
+}
+/*Tarsier*/
+
+
+</style>
